@@ -1,6 +1,6 @@
 ### Discord.js Open Source Bot
 
-Replit Version : [FORK IT](https://replit.com/@TheNumber122/DiscordBot#index.js)
+Replit Version : [FORK IT](https://replit.com/@ItzNumber122/DiscordBot#)
 <br/>
 
 ## Commands:
